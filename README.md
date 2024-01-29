@@ -14,10 +14,10 @@ Before running the script, ensure you have the following prerequisites:
 
 
 # Clone the Repository
-git clone <repository-url>
+git clone https://github.com/MatosSam/MongoSyncFirebase.git
 
 # Change to Project Directory
-cd <repository-directory>
+cd MongoSyncFirebase
 
 # Install Dependencies
 npm install
